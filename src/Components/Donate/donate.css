@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Satisfy&family=Train+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Poppins:wght@100&family=Satisfy&family=Train+One&display=swap');
+.head{
+
+    font-family: 'Satisfy', cursive;}
+
+
+
+    .logo{
+        font-size: 3.3rem;
+    }
+/*#1d1f22;*/
+    .money{
+        line-height: 2.2rem;
+        color : teal;
+        font-family: 'Patua One', cursive;
+    }
+
+    

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Pacifico&family=Poppins:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+.bigtext{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.rtf{
+    font-family: 'Pacifico', cursive;
+
+}
+
+.manu{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.8rem;;
+}

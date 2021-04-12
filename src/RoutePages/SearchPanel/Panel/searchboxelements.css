@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+input{
+    border: solid #93a5cf 2px;
+    border-radius: 8px;
+    padding: 25px;
+
+  background: transparent;
+
+
+
+
+}
+
+input:active{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: black;
+    text-align: center;
+    font-size: 1em;
+    opacity: 1;
+    font-style: italic;
+  
+  }
+
+
+  .div{
+    border: solid #93a5cf 2px;
+    border-radius: 8px;
+    width: 80%;
+    height: 400px;;
+    overflow-y: scroll;
+    margin-left: 10%;
+    margin-right: 10%;
+  
+  }
+
+
+
+
+
+
+  /*Crd*/
+  .CardContainer{
+
+width:80%;
+margin-left: 10%;
+margin-right: 10%;
+
+
+  }
+
+
+  .Card{
+
+    width: 100%;
+    height: 50px;
+    background: linear-gradient(to right,#93a5cf,#e4efe9);
+    color:black;
+
+    border-radius: 8px;
+
+cursor: pointer;
+  }
+
+
+  .Card:hover{
+      background:lightblue;
+
+  }
+
+
+
+  .Cardr{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+
+
+  }
+
+
+  .p{
+    font-family: 'Poppins', sans-serif;
+  }

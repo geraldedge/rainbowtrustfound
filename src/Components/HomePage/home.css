@@ -1,0 +1,33 @@
+@import "~animate.css/animate.css";
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@1,100&display=swap');
+
+
+.big{
+
+   
+}
+
+.pic{
+
+   
+    
+}
+
+.small{
+
+    
+
+        animation:  bounceInLeft;/* referring directly to the animation's @keyframe declaration */
+        animation-duration: 8s; /* don't forget to set a duration! */
+
+}
+
+.modal{
+
+  color: black;
+}
+
+.label{
+    font-family: 'Pacifico', cursive;
+
+}

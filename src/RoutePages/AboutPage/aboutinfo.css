@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Dela+Gothic+One&family=Permanent+Marker&family=Poppins:wght@200&family=RocknRoll+One&family=Shadows+Into+Light&family=Train+One&display=swap');
+.left{
+
+
+    animation: fadeInLeftBig;/* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+}
+
+
+
+
+.right{
+
+
+    animation: fadeInRightBig;/* referring directly to the animation's @keyframe declaration */
+    animation-duration: 3s;
+}
+
+.Head{
+    font-family: 'RocknRoll One', sans-serif;
+    color: linear-gradient(to right,lightgreen,teal);
+}
+
+.body{
+
+    background:linear-gradient(to right,#93a5cf,#e4efe9);
+    height: 100%;
+
+    width:100%;
+
+}
+
+
+.text{
+    font-family: 'Arvo', serif;
+}
+
+
+.vision{
+    font-family: 'Permanent Marker', cursive;
+}
