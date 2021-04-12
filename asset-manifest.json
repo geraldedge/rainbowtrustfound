@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/rainbowtrustfound/static/css/main.ea5117ad.chunk.css",
+    "main.js": "/rainbowtrustfound/static/js/main.6622c488.chunk.js",
+    "main.js.map": "/rainbowtrustfound/static/js/main.6622c488.chunk.js.map",
+    "runtime-main.js": "/rainbowtrustfound/static/js/runtime-main.f4334ddf.js",
+    "runtime-main.js.map": "/rainbowtrustfound/static/js/runtime-main.f4334ddf.js.map",
+    "static/css/2.a1596f27.chunk.css": "/rainbowtrustfound/static/css/2.a1596f27.chunk.css",
+    "static/js/2.375d426b.chunk.js": "/rainbowtrustfound/static/js/2.375d426b.chunk.js",
+    "static/js/2.375d426b.chunk.js.map": "/rainbowtrustfound/static/js/2.375d426b.chunk.js.map",
+    "static/js/3.f5293ede.chunk.js": "/rainbowtrustfound/static/js/3.f5293ede.chunk.js",
+    "static/js/3.f5293ede.chunk.js.map": "/rainbowtrustfound/static/js/3.f5293ede.chunk.js.map",
+    "index.html": "/rainbowtrustfound/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/rainbowtrustfound/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.ea5117ad.chunk.css.map": "/rainbowtrustfound/static/css/main.ea5117ad.chunk.css.map",
+    "static/js/2.375d426b.chunk.js.LICENSE.txt": "/rainbowtrustfound/static/js/2.375d426b.chunk.js.LICENSE.txt",
+    "static/media/1.jpeg": "/rainbowtrustfound/static/media/1.260dea2a.jpeg",
+    "static/media/covid19.svg": "/rainbowtrustfound/static/media/covid19.8d35f90c.svg",
+    "static/media/heading.JPG": "/rainbowtrustfound/static/media/heading.b070139b.JPG",
+    "static/media/img5.jpeg": "/rainbowtrustfound/static/media/img5.0a4d9167.jpeg",
+    "static/media/img6.jpeg": "/rainbowtrustfound/static/media/img6.48473a2f.jpeg",
+    "static/media/logo.6ce24c58.svg": "/rainbowtrustfound/static/media/logo.6ce24c58.svg",
+    "static/media/pic-1.svg": "/rainbowtrustfound/static/media/pic-1.ede5b816.svg",
+    "static/media/pic-2.svg": "/rainbowtrustfound/static/media/pic-2.e21b2109.svg",
+    "static/media/rotary-5.JPG": "/rainbowtrustfound/static/media/rotary-5.30eb4633.JPG",
+    "static/media/rotary-61.JPG": "/rainbowtrustfound/static/media/rotary-61.3d0fa1df.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4334ddf.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.375d426b.chunk.js",
+    "static/css/main.ea5117ad.chunk.css",
+    "static/js/main.6622c488.chunk.js"
+  ]
+}
